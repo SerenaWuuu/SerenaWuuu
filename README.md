@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SerenaWuuu
 - 👀 I’m interested in the Game Industry and Project Management!
-- 🌱 I’m currently learning Python, R, and tableau
+- 🌱 I’m currently learning Python, R, and Tableau
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me juw@ucsd.edu
+- 📫 How to reach me juw022@ucsd.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Have three cute British short-fur cats
 
